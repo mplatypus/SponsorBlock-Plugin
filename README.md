@@ -6,7 +6,7 @@ A [Lavalink](https://github.com/lavalink-devs/Lavalink) plugin
 to skip [SponsorBlock](https://sponsor.ajay.app) segments in [YouTube](https://youtube.com) videos
 and provide information about [chapters](https://support.google.com/youtube/answer/9884579)
 
-## Lavalink Usage
+## Usage
 
 > **Warning** This plugin requires Lavalink v4 beta 3 or higher
 
