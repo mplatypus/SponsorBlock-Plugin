@@ -39,16 +39,16 @@ The category types.
 
 > **Note** You can find more information here: https://wiki.sponsor.ajay.app/w/Segment_Categories
 
-| Name           | Description                                                                                   |
-|----------------|-----------------------------------------------------------------------------------------------|
-| sponsor        | Paid promotion, paid referrals and direct advertisements.                                     |
-| selfpromo      | Merchandise, donations, or information about who they collaborated with.                      |
-| interaction    | Like, subscribe or follow in the middle of content.                                           |
-| intro          | An introduction to a section of the track, without actual content.                            |
-| outro          | Credits or when the YouTube endcards appear.                                                  |
-| preview        | Collection of clips that show what is coming up in this track.                                |
-| music_offtopic | Offtopic music content that isn't covered by other categories.                                |
-| filler         | Tangential scenes or jokes that are not required to understand the main content of the track. |
+| Name             | Description                                                                                   |
+|------------------|-----------------------------------------------------------------------------------------------|
+| `sponsor`        | Paid promotion, paid referrals and direct advertisements.                                     |
+| `selfpromo`      | Merchandise, donations, or information about who they collaborated with.                      |
+| `interaction`    | Like, subscribe or follow in the middle of content.                                           |
+| `intro`          | An introduction to a section of the track, without actual content.                            |
+| `outro`          | Credits or when the YouTube endcards appear.                                                  |
+| `preview`        | Collection of clips that show what is coming up in this track.                                |
+| `music_offtopic` | Offtopic music content that isn't covered by other categories.                                |
+| `filler`         | Tangential scenes or jokes that are not required to understand the main content of the track. |
 
 ##### Segment
 
