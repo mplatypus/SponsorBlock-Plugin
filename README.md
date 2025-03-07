@@ -25,7 +25,7 @@ lavalink:
 
 Snapshot builds are available in https://maven.lavalink.dev/snapshots with the short commit hash as the version
 
-> **Tip** An example implementation in Go can be found [here](https://github.com/TopiSenpai/sponsorblock-plugin-example)
+> **Tip** An example implementation in Go can be found [here](https://github.com/topi314/sponsorblock-plugin-example)
 
 ### API
 
